@@ -1,2 +1,2 @@
 # Whatsie
-Whatsie (WhatApp for Desktop)
+Whatsie (WhatsApp for Desktop)
